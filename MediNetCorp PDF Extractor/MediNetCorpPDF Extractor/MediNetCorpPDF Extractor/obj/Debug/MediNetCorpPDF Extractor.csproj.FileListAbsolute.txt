@@ -19,3 +19,11 @@ D:\Projects\Others\MediNetCorp PDF Extractor\MediNetCorpPDF Extractor\MediNetCor
 D:\Projects\Others\MediNetCorp PDF Extractor\MediNetCorpPDF Extractor\MediNetCorpPDF Extractor\obj\Debug\MediNetCorpPDF Extractor.csproj.GenerateResource.Cache
 D:\Projects\Others\MediNetCorp PDF Extractor\MediNetCorpPDF Extractor\MediNetCorpPDF Extractor\bin\Debug\MediNetCorpPDF Extractor.exe
 D:\Projects\Others\MediNetCorp PDF Extractor\MediNetCorpPDF Extractor\MediNetCorpPDF Extractor\bin\Debug\MediNetCorpPDF Extractor.pdb
+D:\Projects\Others\csharp-excel-pdf-slice\csharp-excel-pdf-slice\MediNetCorp PDF Extractor\MediNetCorpPDF Extractor\MediNetCorpPDF Extractor\bin\Debug\MediNetCorpPDF Extractor.exe.config
+D:\Projects\Others\csharp-excel-pdf-slice\csharp-excel-pdf-slice\MediNetCorp PDF Extractor\MediNetCorpPDF Extractor\MediNetCorpPDF Extractor\bin\Debug\MediNetCorpPDF Extractor.exe
+D:\Projects\Others\csharp-excel-pdf-slice\csharp-excel-pdf-slice\MediNetCorp PDF Extractor\MediNetCorpPDF Extractor\MediNetCorpPDF Extractor\bin\Debug\MediNetCorpPDF Extractor.pdb
+D:\Projects\Others\csharp-excel-pdf-slice\csharp-excel-pdf-slice\MediNetCorp PDF Extractor\MediNetCorpPDF Extractor\MediNetCorpPDF Extractor\obj\Debug\MediNetCorpPDF_Extractor.Form1.resources
+D:\Projects\Others\csharp-excel-pdf-slice\csharp-excel-pdf-slice\MediNetCorp PDF Extractor\MediNetCorpPDF Extractor\MediNetCorpPDF Extractor\obj\Debug\MediNetCorpPDF_Extractor.Properties.Resources.resources
+D:\Projects\Others\csharp-excel-pdf-slice\csharp-excel-pdf-slice\MediNetCorp PDF Extractor\MediNetCorpPDF Extractor\MediNetCorpPDF Extractor\obj\Debug\MediNetCorpPDF Extractor.csproj.GenerateResource.Cache
+D:\Projects\Others\csharp-excel-pdf-slice\csharp-excel-pdf-slice\MediNetCorp PDF Extractor\MediNetCorpPDF Extractor\MediNetCorpPDF Extractor\obj\Debug\MediNetCorpPDF Extractor.exe
+D:\Projects\Others\csharp-excel-pdf-slice\csharp-excel-pdf-slice\MediNetCorp PDF Extractor\MediNetCorpPDF Extractor\MediNetCorpPDF Extractor\obj\Debug\MediNetCorpPDF Extractor.pdb
